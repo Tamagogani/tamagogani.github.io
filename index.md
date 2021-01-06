@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Welcome to Tamagogani's Github Profile
+Hi I'm Tamagogani! I'm an aspiring data-scientist and a avid dog enthusiast.
+I primarily code in python and C++ but I also know R, Matlab, and Java.
+I'm currently learning html, css, and javascript in hopes of doing some cool
+web based data science visualizers.
 
-You can use the [editor on GitHub](https://github.com/Tamagogani/tamagogani.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Table of Contents
+1. [Personal Background](#Personal-Background)
+2. [Technical Skills](#Technical-Skills)
+3. [Projects](#Projects)
+4. [WIP](#WIP)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Personal Background
+### Pets
+This is *Miracle*, a female Maltese Poodle. Miracle is a big fan of food and play
+time but not a big fan of costumes :joy:. According to my mother:
+> "Miracle is the best girl"
 
-### Markdown
+![](./resource/img/christmas_miracle.jpeg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[**Here's a video of Miracle being cute**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+### Miracle's Lists
+#### Miracle's Favorite foods
+- Treats
+- Chicken
+- Cabbage
+- ~~vitamins~~
 
-```markdown
-Syntax highlighted code block
+#### Miracle's Todo List
+- [ ] Catch a  lizard
+- [x] play ball
+- [x] do tricks for treats
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Technical Skills
+Python is probably my best language. Probably my favorite code snippet is the
+following.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+import numpy as np
+import sklearn as sk
+import torch.nn as nn
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I like pytorch more than tensorflow, but I'm warming up to the new (relatively)
+keras integration.
 
-### Jekyll Themes
+## Projects
+I can't go into too much detail about the work I've done during internships
+but I'll list them along with some of the other things I've done alone
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tamagogani/tamagogani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- BOLD Scan Denoising and Analysis
+- Implemented NN by hand
+- Terrible image captioning using transfer learning
+- Even worse (WIP) Image Recognition (recognizing whether a dog is Miracle or
+  not Miracle)
 
-### Support or Contact
+Considering I don't have a very large dataset of Miracle, that last model is
+going to be a WIP for a while.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## WIP
+***Finding something really important to say***
+**Finding something slightly less _important_ to say**
